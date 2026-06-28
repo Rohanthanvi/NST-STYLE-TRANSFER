@@ -1,0 +1,10 @@
+Flask
+bootstrap-flask
+flask_wtf
+numpy
+Pillow
+torch
+torchvision
+tqdm
+Werkzeug
+WTForms

@@ -1,0 +1,4 @@
+content_dir: C:\Users\KIIT0001\Desktop\NST_CODE\content_data
+style_dir: C:\Users\KIIT0001\Desktop\NST_CODE\style_data
+vgg: C:\Users\KIIT0001\vgg_normalised.pth
+experiment: experiment2

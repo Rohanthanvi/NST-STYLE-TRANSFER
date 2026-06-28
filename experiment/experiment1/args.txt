@@ -1,0 +1,11 @@
+content_dir: C:\Users\KIIT0001\Desktop\NST_CODE\content_data
+style_dir: C:\Users\KIIT0001\Desktop\NST_CODE\style_data
+vgg: C:\Users\KIIT0001\Desktop\NST_CODE\vgg_normalised.pth
+experiment: experiment1
+final_size: 512
+content_size: 256
+style_size: 256
+batch_size: 8
+crop: True
+lr: 0.0001
+lr_decay: 5e-05
